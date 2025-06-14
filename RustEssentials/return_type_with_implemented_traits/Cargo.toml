@@ -1,0 +1,6 @@
+[package]
+name = "return_type_with_implemented_traits"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

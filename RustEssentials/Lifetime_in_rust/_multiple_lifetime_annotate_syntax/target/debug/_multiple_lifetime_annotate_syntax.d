@@ -1,0 +1,1 @@
+/home/prince/Desktop/Lifetime_in_rust/_multiple_lifetime_annotate_syntax/target/debug/_multiple_lifetime_annotate_syntax: /home/prince/Desktop/Lifetime_in_rust/_multiple_lifetime_annotate_syntax/src/main.rs
