@@ -1,0 +1,1 @@
+/home/prince/Desktop/RustPractices/AdvancedRust_ManagingProjects/public_struct_enum/target/debug/public_struct_enum: /home/prince/Desktop/RustPractices/AdvancedRust_ManagingProjects/public_struct_enum/src/main.rs

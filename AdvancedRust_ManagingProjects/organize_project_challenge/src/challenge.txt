@@ -1,0 +1,3 @@
+
+Goal : restructure example project code to use seperate shapes modules
+       

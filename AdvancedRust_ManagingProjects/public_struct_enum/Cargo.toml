@@ -1,0 +1,6 @@
+[package]
+name = "public_struct_enum"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
