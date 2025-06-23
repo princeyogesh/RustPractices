@@ -1,0 +1,6 @@
+[package]
+name = "macro4_env_vs_option_env"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

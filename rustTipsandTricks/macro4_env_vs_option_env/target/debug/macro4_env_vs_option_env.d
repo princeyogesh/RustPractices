@@ -1,0 +1,1 @@
+/home/prince/Desktop/RustPractices/rustTipsandTricks/macro4_env_vs_option_env/target/debug/macro4_env_vs_option_env: /home/prince/Desktop/RustPractices/rustTipsandTricks/macro4_env_vs_option_env/src/main.rs

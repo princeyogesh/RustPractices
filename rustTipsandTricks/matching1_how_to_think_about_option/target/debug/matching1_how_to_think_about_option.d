@@ -1,0 +1,1 @@
+/home/prince/Desktop/RustPractices/rustTipsandTricks/matching1_how_to_think_about_option/target/debug/matching1_how_to_think_about_option: /home/prince/Desktop/RustPractices/rustTipsandTricks/matching1_how_to_think_about_option/src/main.rs

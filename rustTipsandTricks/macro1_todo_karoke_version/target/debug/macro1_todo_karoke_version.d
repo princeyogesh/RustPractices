@@ -1,0 +1,1 @@
+/home/prince/Desktop/RustPractices/rustTipsandTricks/macro1_todo_karoke_version/target/debug/macro1_todo_karoke_version: /home/prince/Desktop/RustPractices/rustTipsandTricks/macro1_todo_karoke_version/src/main.rs
